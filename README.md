@@ -3,7 +3,7 @@ A simple Python package to fetch latest and recommended download URLs of [Minecr
 
 ## 💾 Installation 
 ```
-pip install forgepy 
+pip install minecraft-forgepy 
 ```
 
 ## 🔍 How to use
@@ -19,4 +19,4 @@ This package only supports Minecraft versions **1.5.2 and above**.
 
 ## 🤖 Source Code
 - This project is licensed under GNU General Public License v3.0
-- [GitHub repository](https://github.com/matejmajny/forge.py)
+- [PyPi repository](https://pypi.org/project/minecraft-ForgePY/)
