@@ -20,4 +20,4 @@ recommended = forgepy.GetRecommendedURL("1.19.4")
 
 ## 🤖 Source Code
 - This project is licensed under GNU General Public License v3.0
-- [GitHub repository](https://github.com/matejmajny/forge.py)
+- [PyPi repository](https://pypi.org/project/minecraft-forgePY)
