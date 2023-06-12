@@ -1,4 +1,4 @@
-# 📦 minecraft-forgepy
+# 📦 ForgePY
 A simple Python package to fetch latest and recommended download URLs of [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) website. 
 
 ## 💾 Installation 
