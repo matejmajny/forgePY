@@ -1,1 +1,2 @@
-from forgepy import GetLatestURL, GetRecommendedURL
+from .forgepy import GetLatestURL
+from .forgepy import GetRecommendedURL
